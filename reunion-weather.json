@@ -1,0 +1,62 @@
+[
+{
+  "city" : "Saint-Denis",
+    "date" : {
+      "140220" : {
+        "temp" : 29,
+        "humidity" : 70,
+        "qnh" : 1011
+      },
+      "130220" : {
+        "temp" : 30,
+        "humidity" : 80,
+        "qnh" : 1014
+      },
+      "120220" : {
+        "temp" : 27,
+        "humidity" : 65,
+        "qnh" : 1012
+      }
+    }
+  },
+  {
+    "city" : "Saint-Paul",
+    "date" : {
+      "140220" : {
+        "temp" : 30,
+        "humidity" : 75,
+        "qnh": 1014
+      },
+      "130220" : {
+        "temp" : 35,
+        "humidity" : 80,
+        "qnh": 1016
+      },
+      "120220" : {
+        "temp" : 29,
+        "humidity" : 65,
+        "qnh": 1013
+      }
+    }
+  },
+  {
+    "city" : "Saint-Pierre",
+    "date" : {
+      "140220" : {
+        "temp" : 26,
+        "humidity" : 70,
+        "qnh": 1009
+      },
+      "130220" : {
+        "temp" : 28,
+        "humidity" : 75,
+        "qnh": 1012
+      },
+      "120220" : {
+        "temp" : 27,
+        "humidity" : 65,
+        "qnh": 1012
+      }
+    }
+  }
+]
